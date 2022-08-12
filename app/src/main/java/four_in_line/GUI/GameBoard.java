@@ -1,4 +1,4 @@
-package four.in.line.GUI;
+package four_in_line.GUI;
 
 import javax.swing.*;
 import java.awt.*;
